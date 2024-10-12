@@ -11,6 +11,8 @@
 // uint32
 // uint64
 // string
+// Not a datatype: literal -> A number of string without a name
+
 
 package main
 
